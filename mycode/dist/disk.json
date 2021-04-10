@@ -1,0 +1,41 @@
+{
+    "content": [
+        {
+            "data": {
+                "file_type": 0,
+                "file_name": "Lzy:",
+                "file_time": "2020-06-06 18:42:24",
+                "file_address": -1,
+                "file_size": 0
+            },
+            "son": [
+                "ok",
+                "a.txt"
+            ],
+            "father": ""
+        },
+        {
+            "data": {
+                "file_type": 0,
+                "file_name": "ok",
+                "file_time": "2020-06-06 18:42:30",
+                "file_address": -1,
+                "file_size": 0
+            },
+            "son": [],
+            "father": "Lzy:"
+        },
+        {
+            "data": {
+                "file_type": 1,
+                "file_name": "a.txt",
+                "file_time": "2020-06-06 18:42:59",
+                "file_address": "a1",
+                "file_size": 0
+            },
+            "son": [],
+            "father": "Lzy:"
+        }
+    ],
+    "file_id": 1
+}

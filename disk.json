@@ -1,0 +1,103 @@
+{
+    "content": [
+        {
+            "data": {
+                "file_type": 0,
+                "file_name": "Lzy:",
+                "file_time": "2020-06-11 16:06:42",
+                "file_address": -1,
+                "file_size": 0
+            },
+            "son": [
+                "a",
+                "vb.txt",
+                "test.txt",
+                "new"
+            ],
+            "father": ""
+        },
+        {
+            "data": {
+                "file_type": 0,
+                "file_name": "a",
+                "file_time": "2020-06-11 16:06:51",
+                "file_address": -1,
+                "file_size": 0
+            },
+            "son": [
+                "aq.txt",
+                "new.txt"
+            ],
+            "father": "Lzy:"
+        },
+        {
+            "data": {
+                "file_type": 1,
+                "file_name": "vb.txt",
+                "file_time": "2020-06-11 18:38:09",
+                "file_address": "vb1",
+                "file_size": 11
+            },
+            "son": [],
+            "father": "Lzy:"
+        },
+        {
+            "data": {
+                "file_type": 1,
+                "file_name": "test.txt",
+                "file_time": "2020-06-06 22:53:29",
+                "file_address": "test1",
+                "file_size": 0
+            },
+            "son": [],
+            "father": "Lzy:"
+        },
+        {
+            "data": {
+                "file_type": 0,
+                "file_name": "new",
+                "file_time": "2020-06-24 10:03:40",
+                "file_address": -1,
+                "file_size": 0
+            },
+            "son": [
+                "new.txt"
+            ],
+            "father": "Lzy:"
+        },
+        {
+            "data": {
+                "file_type": 1,
+                "file_name": "aq.txt",
+                "file_time": "2020-06-11 16:06:47",
+                "file_address": "aq1",
+                "file_size": 9
+            },
+            "son": [],
+            "father": "a"
+        },
+        {
+            "data": {
+                "file_type": 1,
+                "file_name": "new.txt",
+                "file_time": "2020-06-24 10:06:04",
+                "file_address": "new1",
+                "file_size": 9
+            },
+            "son": [],
+            "father": "a"
+        },
+        {
+            "data": {
+                "file_type": 1,
+                "file_name": "new.txt",
+                "file_time": "2020-06-24 10:06:15",
+                "file_address": "new2",
+                "file_size": 9
+            },
+            "son": [],
+            "father": "new"
+        }
+    ],
+    "file_id": 2
+}
